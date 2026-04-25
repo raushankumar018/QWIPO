@@ -1,0 +1,24 @@
+.checkout-item-card {
+  border-color: #e0e0e0 !important;
+  background-color: #f9f9f9;
+}
+
+.item-image {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+}
+
+.item-name {
+  font-size: 0.95rem;
+  color: #333;
+}
+
+.item-price {
+  font-size: 0.8rem;
+}
+
+.item-total {
+  font-size: 1rem;
+  color: #555;
+}

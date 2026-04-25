@@ -1,0 +1,320 @@
+[
+    {
+        "name": "Hydrating Facial Cleanser",
+        "description": "Gentle, hydrating cleanser suitable for all skin types, removes impurities without stripping moisture.",
+        "category": "Cosmetics",
+        "price": 350,
+        "stock": 150,
+        "image": "https://millies.ie/cdn/shop/files/IMAGESkincareVitalCHydratingFacialCleanser_5.jpg?v=1682674240&width=700",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_x1p12zL_s4g9E_c2H7l_oGf-oJtq-eG2gQ&s",
+        "tags": [
+            "cleanser",
+            "skincare",
+            "face",
+            "hydrating"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Anti-Aging Serum with Vitamin C",
+        "description": "Powerful serum with Vitamin C and hyaluronic acid to reduce fine lines and brighten skin.",
+        "category": "Cosmetics",
+        "price": 800,
+        "stock": 80,
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQQJOCUP388L8upK3orFrKOqOaiPf34zKeKxD75kyPQ_cLPZz-KHgMZDzESLrKLw7gE1iwXkgBjgjjnRtCWbjIqIDLitJNPcawRBgQCqNW4OXmYJg4J34DFRw",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-q6V-jW4fK_E_kF_sY_j-F_zJ-D_o2K_7bA&s",
+        "tags": [
+            "serum",
+            "anti-aging",
+            "vitamin c",
+            "skincare"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Daily Moisturizer SPF 30",
+        "description": "Lightweight daily moisturizer with broad-spectrum SPF 30 for sun protection.",
+        "category": "Cosmetics",
+        "price": 450,
+        "stock": 120,
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRUX5pSkTA9rc0Is1mNOicbYxM9grKqvlhvVqjxzzkcF1WDyjX0f3xvxFD-mLEP8GSsOPxEXwaOpy8YW7uy_anqyQjj_wSaLl_alY_XKyeh5k7JsUxA4O-CgCo",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk1m3-F_w-sJg_j8n-F_q-K_e6j_o_c_3-xQ&s",
+        "tags": [
+            "moisturizer",
+            "spf",
+            "sun protection",
+            "skincare"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Volumizing Mascara - Black",
+        "description": "Achieve dramatic volume and length with this smudge-proof black mascara.",
+        "category": "Cosmetics",
+        "price": 280,
+        "stock": 200,
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQphPz_NG_uA-swy7sqR7-7rnshT4zZ42lJrTBpKbospHuQrmtgXUrfEAbFg-Shg2d8Wu9VKepfhdIPcg7ujs4aBeeacx8eKLfYpsmRtM6IIxfjYCCTCJpZ0i4",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_zC6K_O-P_c2p_j8w_s_r-p_f_E_f_G_v_Q&s",
+        "tags": [
+            "mascara",
+            "makeup",
+            "eyes",
+            "volumizing"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Matte Liquid Lipstick - Ruby Red",
+        "description": "Long-lasting, transfer-proof matte liquid lipstick in a vibrant ruby red shade.",
+        "category": "Cosmetics",
+        "price": 320,
+        "stock": 180,
+        "image": "https://m.media-amazon.com/images/I/51S7efgyEBL._UF1000,1000_QL80_.jpg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3B-y-E_s_e5l-i_k-c_o_8-k_e-E_e_w_Q&s",
+        "tags": [
+            "lipstick",
+            "makeup",
+            "lips",
+            "matte"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Eyeshadow Palette - Nude Delights",
+        "description": "Versatile eyeshadow palette with 12 highly pigmented nude and neutral shades.",
+        "category": "Cosmetics",
+        "price": 600,
+        "stock": 90,
+        "image": "https://rukminim2.flixcart.com/image/480/640/kpodocw0/eye-shadow/z/i/g/20-beauty-color-the-nude-eyeshadow-palette-nude-glitter-original-imag3v5udek7ydzm.jpeg?q=90",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2P_q1v_g_c4J_x_k_8P_a_w_G_k_e_e_q_Q&s",
+        "tags": [
+            "eyeshadow",
+            "makeup",
+            "palette",
+            "nude"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Foundation - Medium Beige",
+        "description": "Medium coverage foundation with a natural finish, shade Medium Beige.",
+        "category": "Cosmetics",
+        "price": 550,
+        "stock": 110,
+        "image": "https://m.media-amazon.com/images/I/61eAMc64S1L._UF1000,1000_QL80_.jpg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_xQ_2gJ_f_Z_7_u_o_h-J_d_w_h_j_l_w_w&s",
+        "tags": [
+            "foundation",
+            "makeup",
+            "face",
+            "medium coverage"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Blush Palette - Peachy Glow",
+        "description": "Four-shade blush palette with warm peachy tones for a radiant glow.",
+        "category": "Cosmetics",
+        "price": 400,
+        "stock": 75,
+        "image": "https://m.media-amazon.com/images/I/61FFYuPM6gL.UF1000,1000_QL80.jpg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxA_v_F_h_Q_g_d_k_a_o_l_p_x_e_f_z_Q&s",
+        "tags": [
+            "blush",
+            "makeup",
+            "face",
+            "palette"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Highlighter Stick - Champagne Pop",
+        "description": "Creamy highlighter stick in a universally flattering champagne pop shade.",
+        "category": "Cosmetics",
+        "price": 380,
+        "stock": 95,
+        "image": "https://rukminim2.flixcart.com/image/1200/1200/xif0q/shimmer-glitter/w/r/z/highlighter-stick-01-champagne-thtc-original-imah6jykzfegazxu.jpeg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7y_k_n_r-o_4_h_J_u_k_r-s_b_b_x_f_Q&s",
+        "tags": [
+            "highlighter",
+            "makeup",
+            "face",
+            "glow"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Setting Spray - All Day Fix",
+        "description": "Lock in your makeup all day with this lightweight, long-lasting setting spray.",
+        "category": "Cosmetics",
+        "price": 300,
+        "stock": 130,
+        "image": "https://rukminim2.flixcart.com/image/480/640/xif0q/primer/f/z/4/120-makeup-fixer-setting-spray-all-day-tight-waterproof-long-original-imahdbms86tkv6mt.jpeg?q=90",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT_oF_w_s_d_k_v_k-z_j_q-z_r_e_d_y_w_g&s",
+        "tags": [
+            "setting spray",
+            "makeup",
+            "fixer"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Exfoliating Face Scrub",
+        "description": "Gentle exfoliating scrub with natural ingredients to reveal smoother, brighter skin.",
+        "category": "Cosmetics",
+        "price": 300,
+        "stock": 100,
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSCBLCmVKh0fu18f6TJNKdAMeLX_YSOGmYVQz0VC8Gj1fH0-M4BA1PwsU7uN2TD6CS2VrUzyl7aKlumIkmAC6oh5Zm7CmOCRfVrL3-IFW0kF-CncKbioUYZUQ",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy-a_i-P_p_c_k_f_z_k_c_k_v_q_r_z_y_Q&s",
+        "tags": [
+            "exfoliator",
+            "skincare",
+            "face",
+            "scrub"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Sheet Mask - Hydrating Rose",
+        "description": "Intensely hydrating sheet mask infused with rose extract for a dewy complexion.",
+        "category": "Cosmetics",
+        "price": 120,
+        "stock": 250,
+        "image": "https://m.media-amazon.com/images/I/51FeD2F62nL.UF1000,1000_QL80.jpg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz-k_g-h_d_z_x_e_v_y_w_g_a_l_t_z_g_w&s",
+        "tags": [
+            "sheet mask",
+            "skincare",
+            "hydrating",
+            "rose"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Nail Polish - Classic Red",
+        "description": "Chip-resistant nail polish in a timeless classic red shade.",
+        "category": "Cosmetics",
+        "price": 180,
+        "stock": 170,
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTVSmFWSnxrhLPKiT4f89umQiQWqA_FYYr9e2pBN816kMPqC2EqRBTDIOJ6dfObBwWcY-XuNeocPm5WtDz_UESaFxQO_LMj9VVb_u1t5fLRzTPjTxHQRYcccA",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z_m_g_l_e_q_l_q_w_f_z_e_r_k_s_g_a_g&s",
+        "tags": [
+            "nail polish",
+            "nails",
+            "red",
+            "manicure"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Eyebrow Pencil - Dark Brown",
+        "description": "Define and fill in brows with this natural-looking dark brown eyebrow pencil.",
+        "category": "Cosmetics",
+        "price": 220,
+        "stock": 140,
+        "image": "https://m.media-amazon.com/images/I/41n5Dt2XjDL.UF1000,1000_QL80.jpg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv_y_b_w_g-e_z_p_f_z_f_q_z_o_c_y_g_w&s",
+        "tags": [
+            "eyebrow",
+            "makeup",
+            "brows",
+            "pencil"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Lip Balm - Tinted Berry",
+        "description": "Nourishing tinted lip balm with a hint of berry color and SPF 15.",
+        "category": "Cosmetics",
+        "price": 150,
+        "stock": 220,
+        "image": "https://media6.ppl-media.com//tr:h-235,w-235,c-at_max,dpr-2,q-40/static/img/product/394750/ny-bae-tinted-berry-lip-balm-4-5-gm_1_display_1753431243_018d8b99.jpg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc_o_g_f_d_r_e_g_f_e_w_z_f_z_w_h_z_Q&s",
+        "tags": [
+            "lip balm",
+            "lips",
+            "tinted",
+            "spf"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Hair Serum - Frizz Control",
+        "description": "Lightweight hair serum to control frizz and add shine to all hair types.",
+        "category": "Cosmetics",
+        "price": 420,
+        "stock": 105,
+        "image": "https://images.meesho.com/images/products/597365443/lsar3_512.avif?width=512",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX4m_f_q_g_h_d_z_o_x_d_f_x_q_z_w_g&s",
+        "tags": [
+            "hair serum",
+            "haircare",
+            "frizz control",
+            "shine"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Body Lotion - Coconut Dream",
+        "description": "Luxurious body lotion with a tropical coconut scent, deeply moisturizes skin.",
+        "category": "Cosmetics",
+        "price": 280,
+        "stock": 160,
+        "image": "https://www.shutterstock.com/image-photo/nivea-hand-body-lotion-sun-260nw-2303073339.jpg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-o_a_z_g_b_f_q_w_h_d_o_c_z_y_g_w&s",
+        "tags": [
+            "body lotion",
+            "bodycare",
+            "coconut",
+            "moisturizer"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Perfume - Floral Bloom 50ml",
+        "description": "Elegant floral fragrance with notes of jasmine and gardenia, 50ml bottle.",
+        "category": "Cosmetics",
+        "price": 1200,
+        "stock": 60,
+        "image": "https://m.media-amazon.com/images/I/61-RCbZxfzL.jpg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd-z_g_h_w_a_z_f_s_y_d_o_x_k_w_j_g&s",
+        "tags": [
+            "perfume",
+            "fragrance",
+            "floral",
+            "eau de parfum"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Sunscreen Lotion SPF 50",
+        "description": "High-protection sunscreen lotion with SPF 50, water-resistant formula.",
+        "category": "Cosmetics",
+        "price": 500,
+        "stock": 190,
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSbIR-tXt8btUTDf393n4TJ7IbxWjwkVmIHEI01L97eTgm-1F-Aswnk6T9c6U_ZCvBLQc7qHt8OYa6fP1CSrapY5suLlcMe3IFkm3zKle_yZCLmFnY-X82-WA",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_x_q-w_a_g_f_e_d_y_w_h_e_r_k_l_w&s",
+        "tags": [
+            "sunscreen",
+            "spf",
+            "sun protection",
+            "lotion"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Makeup Brush Set - 5 Pieces",
+        "description": "Essential 5-piece makeup brush set for flawless application of face and eye makeup.",
+        "category": "Cosmetics",
+        "price": 700,
+        "stock": 85,
+        "image": "https://m.media-amazon.com/images/I/51GOH9mvSoL.UF1000,1000_QL80.jpg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4i_k_o_a_f_g_z_q_y_c_y_g_q_r_a_w&s",
+        "tags": [
+            "makeup tools",
+            "brushes",
+            "makeup set"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    }
+]

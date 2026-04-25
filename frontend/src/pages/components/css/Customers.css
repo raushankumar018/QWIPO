@@ -1,0 +1,64 @@
+/* Customers.css */
+
+/* Consistent stat card styling */
+.stat-card .icon-wrap {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  flex-shrink: 0;
+}
+
+/* Reused search input group from Product.css */
+.search-input-group .form-control,
+.search-input-group .input-group-text {
+  background-color: var(--body-bg);
+  border-color: var(--border-color);
+  border-radius: 0.5rem !important;
+}
+
+.search-input-group .form-control {
+  border-left: none;
+}
+
+.search-input-group .input-group-text {
+  border-right: none;
+}
+
+/* Checkbox styling */
+.filter-checkbox .form-check-input {
+    border-radius: 0.25rem;
+    cursor: pointer;
+}
+
+/* Table styling consistency */
+.table th, .table td {
+    white-space: nowrap;
+}
+
+/* Action button spacing */
+.table td .btn {
+    width: 32px;
+    height: 32px;
+    padding: 0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0.5rem;
+}
+
+.table td .btn i {
+    font-size: 1rem;
+}
+
+/* Ensure badges are styled correctly */
+.badge.bg-success-subtle {
+  background-color: rgba(40, 167, 69, 0.1) !important;
+}
+
+.badge.bg-secondary-subtle {
+  background-color: rgba(108, 117, 125, 0.1) !important;
+}

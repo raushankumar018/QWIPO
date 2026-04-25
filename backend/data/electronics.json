@@ -1,0 +1,322 @@
+[
+    {
+        "name": "Gaming Laptop - HP Victus 15",
+        "description": "Powerful gaming laptop with a fast processor and dedicated graphics card, perfect for high-performance gaming.",
+        "category": "Electronics",
+        "price": 75000,
+        "stock": 45,
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQZV1pMsbaqSDs6Sr-CRFyEzpSisTdW5ut4WiOVLHFtZnP-5OEj5zUajEnKHi5XT4aVfoHV11syvKPgRE5v2oFOOvFzxsyQvdzYFeVKuXYJwbKGcqkmhghM5w",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0t_G4qL_gQ_f_L4c_7aF_s_y_i_n_l_w_t_w&s",
+        "tags": [
+            "laptop",
+            "gaming",
+            "pc",
+            "omen"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "4K Smart TV - 55 inch",
+        "description": "Immersive 55-inch 4K Smart TV with HDR support and built-in streaming apps.",
+        "category": "Electronics",
+        "price": 45000,
+        "stock": 30,
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcREub9EtKStv7DfB4B2Rddks9G4lV0qMVKqO2uD4o8ekMz26nUbWpLz_gT6JZOw7s2pw83T4zEK8AcPiu2Y3BZ9o2K3iEpZefBDsoRRxjns",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_x2u_w-f_y_g_q_j_c_g_q_e_r_l_w&s",
+        "tags": [
+            "tv",
+            "smart tv",
+            "4k",
+            "entertainment"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Wireless Over-Ear Headphones",
+        "description": "High-quality wireless headphones with active noise cancellation and a long-lasting battery.",
+        "category": "Electronics",
+        "price": 5500,
+        "stock": 80,
+        "image": "https://m.media-amazon.com/images/I/41lArSiD5hL.jpg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-o_a_z_g_b_f_q_w_h_d_o_c_z_y_g_w&s",
+        "tags": [
+            "headphones",
+            "audio",
+            "wireless",
+            "noise cancellation"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Smartphone - Flagship Model",
+        "description": "Latest flagship smartphone with a stunning display, powerful camera, and all-day battery life.",
+        "category": "Electronics",
+        "price": 65000,
+        "stock": 90,
+        "image": "https://cdn.mos.cms.futurecdn.net/M4nigVN3vvA5EEnNX9atxY.jpg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7y_k_n_r-o_4_h_J_u_k_r-s_b_b_x_f_Q&s",
+        "tags": [
+            "smartphone",
+            "mobile",
+            "phone",
+            "flagship"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Smartwatch - Fitness Tracker",
+        "description": "Stylish smartwatch with heart rate monitoring, step tracking, and notifications.",
+        "category": "Electronics",
+        "price": 8500,
+        "stock": 110,
+        "image": "https://m.media-amazon.com/images/I/61Bugm3Wo+L.jpg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY3rR-b_s_a_y_r_v_r_q_r_a_w_g_a&s",
+        "tags": [
+            "smartwatch",
+            "wearable",
+            "fitness",
+            "watch"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "DSLR Camera - Entry Level",
+        "description": "Entry-level DSLR camera with a standard kit lens, ideal for budding photographers.",
+        "category": "Electronics",
+        "price": 32000,
+        "stock": 25,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_aLT7JV9b_zeuKbgIBh_Ahp43HxnmlBernw&s",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_xQ_2gJ_f_Z_7_u_o_h-J_d_w_h_j_l_w_w&s",
+        "tags": [
+            "camera",
+            "dslr",
+            "photography",
+            "canon"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Portable Bluetooth Speaker",
+        "description": "Compact and waterproof Bluetooth speaker with rich sound and a 12-hour battery life.",
+        "category": "Electronics",
+        "price": 2500,
+        "stock": 150,
+        "image": "https://www.boat-lifestyle.com/cdn/shop/files/Stone_SpinXPro_1_b3503890-50f6-4cd1-9138-0bd90874391e_1300x.png?v=1709717442",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_z_i_w_e_g_r_d_g_f_e_w_z_f_z_w_h_z_Q&s",
+        "tags": [
+            "speaker",
+            "audio",
+            "bluetooth",
+            "portable"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Power Bank - 20000mAh",
+        "description": "High-capacity 20000mAh power bank with fast charging support for multiple devices.",
+        "category": "Electronics",
+        "price": 1800,
+        "stock": 200,
+        "image": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2024/8/14/f4d83dbc-992c-4644-b9f6-f0cabb1b875d_347153_1.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_y_b_w_g-e_z_p_f_z_f_q_z_o_c_y_g_w&s",
+        "tags": [
+            "power bank",
+            "charger",
+            "mobile accessories",
+            "battery"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "External Hard Drive - 2TB",
+        "description": "Compact and durable 2TB external hard drive for all your data storage and backup needs.",
+        "category": "Electronics",
+        "price": 6000,
+        "stock": 65,
+        "image": "https://m.media-amazon.com/images/I/71B+1S3obHL.UF1000,1000_QL80.jpg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv_y_b_w_g-e_z_p_f_z_f_q_z_o_c_y_g_w&s",
+        "tags": [
+            "hard drive",
+            "storage",
+            "backup",
+            "data"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Wireless Mouse - Ergonomic",
+        "description": "Ergonomic wireless mouse with adjustable DPI and a comfortable grip for long hours of use.",
+        "category": "Electronics",
+        "price": 1200,
+        "stock": 250,
+        "image": "https://m.media-amazon.com/images/I/51HhuuFqG3L.UF1000,1000_QL80.jpg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_x_i_w_e_g_r_d_g_f_e_w_z_f_z_w_h_z_Q&s",
+        "tags": [
+            "mouse",
+            "wireless",
+            "computer accessories",
+            "ergonomic"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Mechanical Keyboard - TKL",
+        "description": "Tenkeyless mechanical keyboard with customizable RGB lighting and tactile key switches.",
+        "category": "Electronics",
+        "price": 4500,
+        "stock": 70,
+        "image": "https://m.media-amazon.com/images/I/71aDZGDOwlL.jpg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX4m_f_q_g_h_d_z_o_x_d_f_x_q_z_w_g&s",
+        "tags": [
+            "keyboard",
+            "mechanical",
+            "gaming",
+            "tkl"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Tablet - 10-inch Display",
+        "description": "Versatile tablet with a large 10-inch display, ideal for media consumption, browsing, and casual use.",
+        "category": "Electronics",
+        "price": 15000,
+        "stock": 55,
+        "image": "https://m.media-amazon.com/images/I/71I+-bo7IXL.jpg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy-a_i-P_p_c_k_f_z_k_c_k_v_q_r_z_y_Q&s",
+        "tags": [
+            "tablet",
+            "mobile",
+            "entertainment",
+            "gadget"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Drone with 4K Camera",
+        "description": "High-quality drone with a 4K camera, perfect for aerial photography and video capture.",
+        "category": "Electronics",
+        "price": 28000,
+        "stock": 20,
+        "image": "https://m.media-amazon.com/images/I/41WwyhHWLbL.UF1000,1000_QL80.jpg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_g_r_a_w_a_g_f_z_w_h_e_r_k_l_w&s",
+        "tags": [
+            "drone",
+            "camera",
+            "aerial",
+            "gadget"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Gaming Console - Next-Gen",
+        "description": "Next-generation gaming console with stunning graphics and a vast library of games.",
+        "category": "Electronics",
+        "price": 40000,
+        "stock": 50,
+        "image": "https://i.pcmag.com/imagery/articles/04W0zg2PaBvY8KR7W5dgD6X-1..v1605025767.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_x_q-w_a_g_f_e_d_y_w_h_e_r_k_l_w&s",
+        "tags": [
+            "gaming",
+            "console",
+            "playstation",
+            "xbox"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Home Theater System - 5.1 Channel",
+        "description": "Complete 5.1 channel home theater system for a cinematic audio experience.",
+        "category": "Electronics",
+        "price": 22000,
+        "stock": 15,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV2Czu6GmhoNzRt0xQfTILAZaIOkMD8LkJCA&s",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2P_q1v_g_c4J_x_k_8P_a_w_G_k_e_e_q_Q&s",
+        "tags": [
+            "home theater",
+            "audio",
+            "entertainment",
+            "speakers"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Robot Vacuum Cleaner",
+        "description": "Smart robot vacuum cleaner that navigates your home and cleans floors automatically.",
+        "category": "Electronics",
+        "price": 12000,
+        "stock": 40,
+        "image": "https://m.media-amazon.com/images/I/718yLzO7J+L.jpg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_zC6K_O-P_c2p_j8w_s_r-p_f_E_f_G_v_Q&s",
+        "tags": [
+            "robot",
+            "vacuum",
+            "smart home",
+            "cleaning"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Wireless Earbuds with Case",
+        "description": "Compact wireless earbuds with a charging case, offering clear audio and a secure fit.",
+        "category": "Electronics",
+        "price": 3500,
+        "stock": 180,
+        "image": "https://m.media-amazon.com/images/I/61WjmxDkKhL.jpg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc_o_g_f_d_r_e_g_f_e_w_z_f_z_w_h_z_Q&s",
+        "tags": [
+            "earbuds",
+            "audio",
+            "wireless",
+            "headphones"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "All-in-One Printer",
+        "description": "Compact all-in-one printer for printing, scanning, and copying, suitable for home and office use.",
+        "category": "Electronics",
+        "price": 9000,
+        "stock": 60,
+        "image": "https://m.media-amazon.com/images/I/615xeSG-XSL.UF1000,1000_QL80.jpg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk1m3-F_w-sJg_j8n-F_q-K_e6j_o_c_3-xQ&s",
+        "tags": [
+            "printer",
+            "scanner",
+            "office",
+            "all-in-one"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Wi-Fi 6 Router",
+        "description": "Next-gen Wi-Fi 6 router for faster speeds, lower latency, and increased capacity.",
+        "category": "Electronics",
+        "price": 6800,
+        "stock": 75,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNVQuf-EjSMsUzXhRETfZw8qHVJkcjZGKMfA&s",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT_oF_w_s_d_k_v_k-z_j_q-z_r_e_d_y_w_g&s",
+        "tags": [
+            "router",
+            "wi-fi",
+            "network",
+            "internet"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Smart Light Bulb - RGB",
+        "description": "Smart LED light bulb with millions of colors, controllable via your smartphone or voice assistant.",
+        "category": "Electronics",
+        "price": 850,
+        "stock": 300,
+        "image": "https://cdn.homemate.co.in/wp-content/uploads/2019/10/71jBByMlOOL.SL1500.jpg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm9R-tXt8btUTDf393n4TJ7IbxWjwkVmIHEI01L97eTgm-1F-Aswnk6T9c6U_ZCvBLQc7qHt8OYa6fP1CSrapY5suLlcMe3IFkm3zKle_yZCLmFnY-X82-WA",
+        "tags": [
+            "smart home",
+            "lighting",
+            "bulb",
+            "rgb"
+        ],
+        "distributor": "68d760a93aa1e379609cc765"
+    }
+]

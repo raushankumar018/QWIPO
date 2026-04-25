@@ -1,0 +1,202 @@
+/* CartBar.css */
+:root {
+  /* Inherit from Dashboard styles */
+  --body-bg: #f8f9fa;
+  --card-bg: #ffffff;
+  --border-color: #dee2e6;
+  --text-primary: #212529;
+  --text-secondary: #6c757d;
+  --primary-color: #0d6efd;
+  --danger-color: #dc3545;
+}
+
+.cartbar {
+  /* Core fixed bar properties */
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: var(--card-bg);
+  border-top: 1px solid var(--border-color);
+  z-index: 1050; 
+  padding: 0.75rem 0;
+  box-shadow: 0 -4px 12px rgba(0, 0, 0, 0.15); /* Stronger shadow to stand out */
+}
+
+/* Container ensures content is centered and padded correctly */
+.cartbar-content {
+  padding: 0 1rem;
+}
+
+/* --------------------------------------
+   1. Cart Items Container (Scrollable)
+   -------------------------------------- */
+.cart-items {
+  display: flex;
+  gap: 0.75rem; /* Tighter gap for chips */
+  overflow-x: auto; /* Horizontal scrolling for items */
+  overflow-y: hidden;
+  padding-bottom: 0.5rem; /* Space for scrollbar (if visible) */
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Hide scrollbar for aesthetic purposes on desktop, but keep scrolling functionality */
+.cart-items::-webkit-scrollbar {
+  height: 4px;
+}
+.cart-items::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+}
+
+/* --------------------------------------
+   2. Cart Item Chip (Individual Product)
+   -------------------------------------- */
+.cart-chip {
+  background-color: var(--body-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 0.75rem;
+  padding: 0.5rem;
+  min-width: 260px; /* Ensure chips are wide enough */
+  flex-shrink: 0;
+  transition: all 0.2s ease-in-out;
+  align-items: center;
+}
+
+.cart-chip:hover {
+  background-color: #f1f3f5;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.cart-chip img {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+
+.chip-info {
+  flex-grow: 1;
+  min-width: 0;
+  margin-right: 0.5rem;
+}
+
+.chip-info .name {
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.chip-info .price {
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+}
+
+/* Quantity controls in the chip */
+.qty {
+  flex-shrink: 0;
+  margin-right: 0.5rem;
+}
+
+.qty .btn {
+  font-size: 0.8rem;
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  border-radius: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.qty .form-control {
+  font-size: 0.8rem;
+  height: 28px;
+  width: 38px !important;
+  padding: 0 2px;
+  text-align: center;
+  border-radius: 0.5rem;
+}
+
+/* Remove button styling */
+.btn-outline-danger {
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  border-radius: 50%; /* Circular button for 'X' */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--danger-color);
+  border-color: var(--danger-color);
+  font-size: 1rem;
+  flex-shrink: 0;
+}
+
+.btn-outline-danger:hover {
+  background-color: var(--danger-color);
+  color: white;
+}
+
+/* --------------------------------------
+   3. Summary and Checkout
+   -------------------------------------- */
+
+.summary {
+  font-size: 0.9rem;
+}
+
+.summary .fw-bold {
+  font-size: 1.2rem;
+  color: var(--text-primary);
+}
+
+.btn-primary {
+  font-weight: 600;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1.25rem;
+}
+
+
+/* --------------------------------------
+   4. Responsiveness (Mobile Layout)
+   -------------------------------------- */
+
+@media (max-width: 991.98px) {
+  /* On tablets and below, hide the summary columns to save space */
+  .col-lg-5 .summary {
+    display: none;
+  }
+  
+  /* Make the checkout column take full width, but only display total items/subtotal once */
+  .col-lg-5 {
+    width: 100%;
+    justify-content: space-between !important;
+    padding-top: 0.5rem;
+  }
+  
+  /* Show a combined summary on the left of the checkout button */
+  .col-lg-5::before {
+    content: "Total: ₹" attr(data-subtotal-formatted) " (" attr(data-item-count) " items)";
+    display: block;
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    white-space: nowrap;
+  }
+
+  /* Adjust the gap between item list and summary on mobile */
+  .row.g-3 > .col-12:first-child {
+    padding-bottom: 0;
+  }
+}
+
+/* Small mobile devices adjustment */
+@media (max-width: 575.98px) {
+  .cartbar {
+    padding: 0.5rem 0;
+  }
+  .cartbar-content {
+    padding: 0 0.5rem;
+  }
+}

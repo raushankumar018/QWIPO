@@ -1,0 +1,221 @@
+/* AI.css */
+.ai-recommendations-wrapper {
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+  position: relative;
+}
+
+.ai-section-title {
+  font-size: 1.8rem;
+  font-weight: 800;
+  background: linear-gradient(135deg, #178573, #0b5044, #20c997);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 2.5rem;
+  position: relative;
+}
+
+.ai-card {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(23, 133, 115, 0.1);
+  border-radius: 1.25rem;
+  overflow: hidden;
+  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.04), 0 0 0 1px rgba(255,255,255,0.5) inset;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.ai-card::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, #178573, #20c997);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.ai-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 20px 40px rgba(23, 133, 115, 0.12), 0 0 0 1px rgba(255,255,255,0.8) inset;
+  border-color: rgba(23, 133, 115, 0.3);
+}
+
+.ai-card:hover::before {
+  opacity: 1;
+}
+
+.ai-card-img-wrapper {
+  position: relative;
+  padding: 1.5rem;
+  background: radial-gradient(circle at center, #f8fcfb 0%, #fff 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ai-card-img {
+  max-height: 180px;
+  object-fit: contain;
+  transition: transform 0.5s ease;
+}
+
+.ai-card:hover .ai-card-img {
+  transform: scale(1.08);
+}
+
+.ai-relevance-badge {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  background: linear-gradient(135deg, #178573, #20c997);
+  color: white;
+  padding: 0.35rem 0.75rem;
+  border-radius: 2rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  box-shadow: 0 4px 10px rgba(23, 133, 115, 0.3);
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  z-index: 2;
+}
+
+.ai-card-body {
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  background: white;
+}
+
+.ai-card-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #2b3445;
+  margin-bottom: 0.25rem;
+}
+
+.ai-card-distributor {
+  font-size: 0.8rem;
+  color: #7d879c;
+  font-weight: 500;
+  margin-bottom: 1rem;
+}
+
+.ai-reason-box {
+  background: rgba(23, 133, 115, 0.04);
+  border-left: 3px solid #178573;
+  padding: 0.75rem 1rem;
+  border-radius: 0 0.5rem 0.5rem 0;
+  margin-bottom: 1.5rem;
+}
+
+.ai-reason-text {
+  font-size: 0.8rem;
+  color: #4b566b;
+  line-height: 1.4;
+  margin: 0;
+  display: flex;
+  align-items: flex-start;
+}
+
+.ai-reason-icon {
+  color: #178573;
+  margin-right: 0.5rem;
+  margin-top: 0.1rem;
+  flex-shrink: 0;
+}
+
+.ai-price {
+  font-size: 1.4rem;
+  font-weight: 800;
+  color: #178573;
+}
+
+.ai-qty-controls {
+  background: #f3f5f9;
+  border-radius: 2rem;
+  padding: 0.25rem;
+  border: 1px solid #e3e9f3;
+}
+
+.ai-qty-btn {
+  background: white;
+  border: none;
+  border-radius: 50%;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #2b3445;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  transition: all 0.2s;
+}
+
+.ai-qty-btn:hover {
+  background: #178573;
+  color: white;
+}
+
+.ai-qty-input {
+  background: transparent;
+  border: none;
+  font-weight: 600;
+  color: #2b3445;
+  width: 40px;
+  text-align: center;
+  padding: 0;
+}
+
+.ai-qty-input:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.ai-add-btn {
+  background: linear-gradient(135deg, #178573, #126e5f);
+  color: white;
+  border: none;
+  border-radius: 0.75rem;
+  padding: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 15px rgba(23, 133, 115, 0.25);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.ai-add-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(23, 133, 115, 0.35);
+  background: linear-gradient(135deg, #147565, #0d5246);
+}
+
+.ai-add-btn:active {
+  transform: translateY(0);
+}
+
+/* Subtle glow animation for the Zap icon */
+@keyframes zap-pulse {
+  0% { filter: drop-shadow(0 0 2px rgba(32, 201, 151, 0.5)); }
+  50% { filter: drop-shadow(0 0 8px rgba(32, 201, 151, 0.8)); }
+  100% { filter: drop-shadow(0 0 2px rgba(32, 201, 151, 0.5)); }
+}
+
+.ai-zap-icon {
+  animation: zap-pulse 2s infinite;
+  color: #20c997;
+}

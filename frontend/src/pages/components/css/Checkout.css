@@ -1,0 +1,94 @@
+/* ===== Checkout.css – modern polished UI ===== */
+
+.checkout-wrapper {
+  background-color: #f8fafc;
+}
+
+.checkout-content {
+  padding: 1rem 2rem;
+  background-color: #f8fafc;
+}
+
+/* Card styling */
+.checkout-card {
+  background: #ffffff;
+  border-radius: 1rem;
+  transition: all 0.3s ease;
+}
+
+.checkout-card:hover {
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+}
+
+/* Order item list */
+.order-item {
+  border: none !important;
+  background: #fff !important;
+  border-radius: 0.75rem;
+  margin-bottom: 0.5rem;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+  transition: transform 0.2s ease;
+}
+
+.order-item:hover {
+  transform: scale(1.02);
+}
+
+/* Coupon section */
+.coupon-section input {
+  border-top-left-radius: 0.5rem;
+  border-bottom-left-radius: 0.5rem;
+}
+
+.coupon-section button {
+  border-top-right-radius: 0.5rem;
+  border-bottom-right-radius: 0.5rem;
+}
+
+.coupon-section .form-label {
+  font-weight: 500;
+}
+
+/* Grand total */
+.grand-total {
+  border-top: 1px dashed #ccc;
+  padding-top: 0.5rem;
+}
+
+/* Inputs */
+.shipping-form input,
+.shipping-form textarea {
+  border-radius: 0.5rem;
+  border: 1px solid #ddd;
+  transition: border-color 0.2s;
+}
+
+.shipping-form input:focus,
+.shipping-form textarea:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 0 0.15rem rgba(13, 110, 253, 0.15);
+}
+
+/* Buttons */
+.btn-primary {
+  background: linear-gradient(90deg, #0d6efd, #0a58ca);
+  border: none;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 10px rgba(13, 110, 253, 0.25);
+}
+
+/* Responsive layout */
+@media (max-width: 768px) {
+  .checkout-content {
+    padding: 1rem;
+  }
+
+  .order-item img {
+    width: 48px;
+    height: 48px;
+  }
+}

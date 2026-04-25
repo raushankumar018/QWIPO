@@ -1,0 +1,19 @@
+fastapi
+uvicorn
+pandas
+numpy
+scipy
+scikit-learn
+sentence-transformers
+python-dotenv
+requests
+jupyter
+pymongo
+google-generativeai
+
+# in main folder
+# python -m venv venv
+# .\venv\Scripts\Activate.ps1
+#  move src the run
+# uvicorn src.api:app --reload --host 127.0.0.1 --port 8000
+

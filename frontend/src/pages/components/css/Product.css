@@ -1,0 +1,127 @@
+
+
+.product-grid {
+  --bs-gutter-x: 1.5rem;
+  --bs-gutter-y: 2.5rem;
+}
+
+.product-card {
+  border: 1px solid var(--border-color, #e0e0e0);
+  border-radius: 0.75rem;
+  transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  cursor: pointer;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  /* Starting Color: Light Background */
+  background-color: var(--card-bg, #ffffff);
+  overflow: hidden;
+  position: relative;
+  margin: 0;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.product-card:hover {
+
+  background-color: var(--card-hover-bg, #f8f8f8);
+
+  transform: translateY(-8px);
+
+  box-shadow: 0 10px 20px rgb(97, 97, 218),
+    0 15px 30px rgb(16, 159, 225);
+}
+
+.product-card::after {
+  content: none;
+}
+
+.stock-badge {
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+  z-index: 10;
+  padding: 0.3rem 0.6rem;
+  border-radius: 0.3rem;
+  background-color: #ffc107;
+  color: #343a40;
+  font-size: 0.8rem;
+  font-weight: 700;
+}
+
+.product-card-img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-top-left-radius: 0.75rem;
+  border-top-right-radius: 0.75rem;
+  transition: transform 0.3s ease-in-out;
+  position: relative;
+  z-index: 1;
+}
+
+.product-card:hover .product-card-img {
+  transform: scale(1.05);
+}
+
+.product-card-img-placeholder {
+  height: 200px;
+  background-color: #f8f9fa;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #adb5bd;
+  font-size: 1.5rem;
+  border-top-left-radius: 0.75rem;
+  border-top-right-radius: 0.75rem;
+}
+
+.product-card-body {
+  padding: 1.25rem 1rem;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+  z-index: 2;
+  color: var(--text-primary, #343a40);
+}
+
+.product-title {
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  white-space: normal;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-height: 2.4em;
+  line-height: 1.2em;
+  color: var(--text-primary, #343a40);
+}
+
+
+.product-description {
+  font-size: 0.9rem;
+  color: var(--text-secondary, #6c757d);
+  margin-bottom: 0.75rem;
+  overflow: hidden;
+  max-height: 3.6em;
+  line-height: 1.2em;
+}
+
+/* Product Price */
+.product-price {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--primary-color, #007bff);
+  margin-top: auto;
+  margin-bottom: 1rem;
+}
+
+.product-add-btn {
+  border-radius: 0.5rem;
+  font-weight: 600;
+  width: 100%;
+  padding: 0.6rem 0.8rem;
+  background-color: var(--primary-color-dark, #0056b3);
+  color: #ffffff;
+}

@@ -1,0 +1,87 @@
+# --- Node (backend & frontend) ---
+
+node_modules/
+**/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Vite / build outputs
+
+dist/
+build/
+.vite/
+
+# --- Environment / secrets ---
+
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# --- Python ---
+
+venv/
+.venv/
+ENV/
+env/
+**pycache**/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ipynb_checkpoints/
+
+# --- Logs ---
+
+logs/
+*.log
+
+# --- OS generated files ---
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- IDE / Editor ---
+
+.vscode/
+.idea/
+*.suo
+*.user
+*.rsuser
+*.sln
+*.swp
+
+# --- Coverage / reports ---
+
+coverage/
+coverage.xml
+htmlcov/
+
+# --- Packaging / distribution ---
+
+*.egg-info/
+*.egg
+.eggs/
+
+# --- Databases / caches ---
+
+*.sqlite3
+*.db
+*.bak
+*.tmp
+*.cache
+*.pkl
+
+# --- Custom (IMPORTANT FIX) ---
+
+caches/
+
+# Keep lockfiles tracked (recommended)
+
+# package-lock.json
+
+# yarn.lock
+
+# pnpm-lock.yaml

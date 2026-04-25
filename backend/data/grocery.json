@@ -1,0 +1,339 @@
+[
+    {
+        "name": "Basmati Rice - 5kg",
+        "description": "Premium long-grain basmati rice, perfect for biryani, pulao, and other rice dishes. Known for its distinct aroma and fluffy texture.",
+        "category": "Grocery",
+        "price": 600,
+        "stock": 150,
+        "image": "https://m.media-amazon.com/images/I/61XFtNhIx+L._UF894,1000_QL80_.jpg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_x_q-w_a_g_f_e_d_y_w_h_e_r_k_l_w&s",
+        "tags": [
+            "rice",
+            "basmati",
+            "grains",
+            "staples"
+        ],
+        "distributor": "d5e9c7b1a4f3e820c611d9f4"
+    },
+    {
+        "name": "Sugar - 1kg",
+        "description": "Fine-grain white sugar, ideal for baking, sweetening beverages, and general cooking. Dissolves quickly and provides a clean sweetness.",
+        "category": "Grocery",
+        "price": 50,
+        "stock": 500,
+        "image": "https://www.jiomart.com/images/product/original/490176160/loose-sugar-m-1-kg-product-images-o490176160-p490176160-0-202503191621.jpg?im=Resize=(420,420)",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_x_i_w_e_g_r_d_g_f_e_w_z_f_z_w_h_z_Q&s",
+        "tags": [
+            "sugar",
+            "sweetener",
+            "baking",
+            "staples"
+        ],
+        "distributor": "d5e9c7b1a4f3e820c611d9f4"
+    },
+    {
+        "name": "Wheat Flour (Atta) - 5kg",
+        "description": "Whole wheat flour, stone-ground to retain natural fiber and nutrients. Excellent for making soft and fluffy chapatis, rotis, and parathas.",
+        "category": "Grocery",
+        "price": 250,
+        "stock": 300,
+        "image": "https://www.bbassets.com/media/uploads/p/l/126903_12-aashirvaad-atta-whole-wheat.jpg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_x2u_w-f_y_g_q_j_c_g_q_e_r_l_w&s",
+        "tags": [
+            "flour",
+            "atta",
+            "wheat",
+            "staples"
+        ],
+        "distributor": "d5e9c7b1a4f3e820c611d9f4"
+    },
+    {
+        "name": "Tea Leaves - 250g",
+        "description": "High-quality black tea leaves from Assam, offering a strong, refreshing, and aromatic brew. Perfect for your morning cup of tea.",
+        "category": "Grocery",
+        "price": 180,
+        "stock": 220,
+        "image": "https://m.media-amazon.com/images/I/51dckF0QWEL._UF894,1000_QL80_.jpg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_x_i_w_e_g_r_d_g_f_e_w_z_f_z_w_h_z_Q&s",
+        "tags": [
+            "tea",
+            "beverages",
+            "black tea",
+            "morning tea"
+        ],
+        "distributor": "d5e9c7b1a4f3e820c611d9f4"
+    },
+    {
+        "name": "Coffee Powder - 100g",
+        "description": "A rich and smooth instant coffee powder made from a blend of roasted Arabica and Robusta beans. Delivers a bold and rich taste.",
+        "category": "Grocery",
+        "price": 120,
+        "stock": 280,
+        "image": "https://daromas.in/cdn/shop/files/Slide9_0a7fbb71-c6c7-4158-9300-0733e0dfd13f.jpg?v=1754387821",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_x_i_w_e_g_r_d_g_f_e_w_z_f_z_w_h_z_Q&s",
+        "tags": [
+            "coffee",
+            "beverages",
+            "instant coffee",
+            "drink"
+        ],
+        "distributor": "d5e9c7b1a4f3e820c611d9f4"
+    },
+    {
+        "name": "Cooking Oil (Refined) - 1L",
+        "description": "Light and clear refined cooking oil, suitable for frying, sautéing, and deep-frying. Has a high smoke point and neutral flavor.",
+        "category": "Grocery",
+        "price": 180,
+        "stock": 200,
+        "image": "https://m.media-amazon.com/images/I/61hbqzz4u+L._UF894,1000_QL80_.jpg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_xQ_2gJ_f_Z_7_u_o_h-J_d_w_h_j_l_w_w&s",
+        "tags": [
+            "cooking oil",
+            "refined oil",
+            "edible oil",
+            "kitchen essentials"
+        ],
+        "distributor": "d5e9c7b1a4f3e820c611d9f4"
+    },
+    {
+        "name": "Salt - 1kg",
+        "description": "Pure iodized salt, a fundamental ingredient for all cooking. It enhances flavor and is essential for good health.",
+        "category": "Grocery",
+        "price": 25,
+        "stock": 600,
+        "image": "https://www.bbassets.com/media/uploads/p/l/40121247_8-puro-salt-unrefined-100-natural.jpg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm9R-tXt8btUTDf393n4TJ7IbxWjwkVmIHEI01L97eTgm-1F-Aswnk6T9c6U_ZCvBLQc7qHt8OYa6fP1CSrapY5suLlcMe3IFkm3zKle_yZCLmFnY-X82-WA&s",
+        "tags": [
+            "salt",
+            "iodized salt",
+            "staples",
+            "seasoning"
+        ],
+        "distributor": "d5e9c7b1a4f3e820c611d9f4"
+    },
+    {
+        "name": "Lentils (Toor Dal) - 1kg",
+        "description": "High-quality toor dal (split pigeon peas), a staple lentil in Indian households. Used to make delicious sambar, dal, and stews.",
+        "category": "Grocery",
+        "price": 150,
+        "stock": 250,
+        "image": "https://inventory.dearsystems.com/Attachment/Download?ID=0c75f711-6de1-414a-84cd-c31713ee023d&ContentType=image/jpeg&FileName=RED-LENTIL-WHOLE-1KG.jpg&isPublic=True&timeStamp=Bee5E8EefRm1NRFQ24RlFg%3D%3D",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_x_q-w_a_g_f_e_d_y_w_h_e_r_k_l_w&s",
+        "tags": [
+            "lentils",
+            "dal",
+            "toor dal",
+            "pulses",
+            "staples"
+        ],
+        "distributor": "d5e9c7b1a4f3e820c611d9f4"
+    },
+    {
+        "name": "Puffed Rice (Murmura) - 500g",
+        "description": "Light and crispy puffed rice, a popular snack base. Used for making bhel puri, chaat, and other savory snacks.",
+        "category": "Grocery",
+        "price": 40,
+        "stock": 400,
+        "image": "https://m.media-amazon.com/images/I/71vSxIjLwjL.UF1000,1000_QL80.jpg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk1m3-F_w-sJg_j8n-F_q-K_e6j_o_c_3-xQ&s",
+        "tags": [
+            "puffed rice",
+            "murmura",
+            "snack",
+            "cereals"
+        ],
+        "distributor": "d5e9c7b1a4f3e820c611d9f4"
+    },
+    {
+        "name": "Biscuits (Assorted) - 200g",
+        "description": "A pack of assorted biscuits with a mix of sweet and savory flavors. A perfect snack for tea time or a quick bite.",
+        "category": "Grocery",
+        "price": 65,
+        "stock": 350,
+        "image": "https://m.media-amazon.com/images/I/51rEX4tW2TL.UF350,350_QL80.jpg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz-k_g-h_d_z_x_e_v_y_w_g_a_l_t_z_g_w&s",
+        "tags": [
+            "biscuits",
+            "snacks",
+            "cookies",
+            "assorted"
+        ],
+        "distributor": "d5e9c7b1a4f3e820c611d9f4"
+    },
+    {
+        "name": "Milk (Long Life) - 1L",
+        "description": "UHT long-life milk, a convenient and healthy option for daily consumption. Can be stored at room temperature before opening.",
+        "category": "Grocery",
+        "price": 80,
+        "stock": 180,
+        "image": "https://cdn.mafrservices.com/sys-master-root/h80/h80/16930277851166/43275_main.jpg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_x2u_w-f_y_g_q_j_c_g_q_e_r_l_w&s",
+        "tags": [
+            "milk",
+            "dairy",
+            "long life",
+            "beverages"
+        ],
+        "distributor": "d5e9c7b1a4f3e820c611d9f4"
+    },
+    {
+        "name": "Mixed Spices (Whole) - 200g",
+        "description": "A convenient pack of whole spices including cinnamon sticks, cloves, cardamom, and bay leaves. Ideal for making garam masala or flavoring curries.",
+        "category": "Grocery",
+        "price": 200,
+        "stock": 90,
+        "image": "https://m.media-amazon.com/images/I/712mVHIOwRL.jpg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2P_q1v_g_c4J_x_k_8P_a_w_G_k_e_e_q_Q&s",
+        "tags": [
+            "spices",
+            "whole spices",
+            "masala",
+            "curry"
+        ],
+        "distributor": "d5e9c7b1a4f3e820c611d9f4"
+    },
+    {
+        "name": "Lentils (Moong Dal) - 500g",
+        "description": "Split green gram (moong dal) without skin, known for being light on the stomach and easy to cook. Used in khichdi and soups.",
+        "category": "Grocery",
+        "price": 75,
+        "stock": 320,
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT-c4FuZY1100wk6CGCo2EWQ0WUnxao31-YkU0-0SVJMzuQSorwoiAShSWYCG6YTP-FnHWxHlVG3tViddTVmm3z7dCCGeR69s0WddNiRyImyJ5ly6_YqVWlBw",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy-a_i-P_p_c_k_f_z_k_c_k_v_q_r_z_y_Q&s",
+        "tags": [
+            "lentils",
+            "dal",
+            "moong dal",
+            "pulses"
+        ],
+        "distributor": "d5e9c7b1a4f3e820c611d9f4"
+    },
+    {
+        "name": "Ghee (Clarified Butter) - 500ml",
+        "description": "Pure cow ghee with a rich, nutty flavor and a high smoke point. A healthy alternative for cooking and frying.",
+        "category": "Grocery",
+        "price": 350,
+        "stock": 100,
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR_1yQPS9jMBDhhox6asoKATsSR9kqNGanliaX6TQ4xrigpErJmKifbe9Z_JMIq-9_HvU9xperrkps44YDj6ze_L1VceQ1l5c4Le4_KEDjK",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_x_i_w_e_g_r_d_g_f_e_w_z_f_z_w_h_z_Q&s",
+        "tags": [
+            "ghee",
+            "clarified butter",
+            "dairy",
+            "cooking"
+        ],
+        "distributor": "d5e9c7b1a4f3e820c611d9f4"
+    },
+    {
+        "name": "Snack Crackers - 150g",
+        "description": "Crispy and light crackers, perfect for pairing with cheese, dips, or enjoying on their own. Comes in a resealable pack for freshness.",
+        "category": "Grocery",
+        "price": 55,
+        "stock": 250,
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTT-KR7wfgzLsT9Xba2WWbGGeP8hqPvtCggbgw5T8hwMEiucOCuRZ4WmYi9Xxf_FoHkdwBdvt57Qvxy6RcueuI3n3SYZAhXciJSHs9vr0hmcYHeTF-ch_NgYQ",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z_m_g_l_e_q_l_q_w_f_z_e_r_k_s_g_a_g&s",
+        "tags": [
+            "crackers",
+            "snacks",
+            "salty",
+            "crispy"
+        ],
+        "distributor": "d5e9c7b1a4f3e820c611d9f4"
+    },
+    {
+        "name": "Semolina (Rawa) - 500g",
+        "description": "Coarsely ground durum wheat, used to make delicious upma, idli, and halwa. A common ingredient in many savory and sweet dishes.",
+        "category": "Grocery",
+        "price": 60,
+        "stock": 180,
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRw2IdGYmsaSDtDBRFD15YZv2Zkb-5Ac8a7qv2xUO_yVtWlU3Yd_l3s4lQPm3ygRJv7u2uWpJcT0Lx3M6AiHyuRgLItIquSWy3FFoG1tn8rWv4q19e9ItZDxw",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_zC6K_O-P_c2p_j8w_s_r-p_f_E_f_G_v_Q&s",
+        "tags": [
+            "semolina",
+            "rawa",
+            "grains",
+            "baking"
+        ],
+        "distributor": "d5e9c7b1a4f3e820c611d9f4"
+    },
+    {
+        "name": "Breakfast Cereal - 300g",
+        "description": "A healthy and crunchy multi-grain breakfast cereal, fortified with essential vitamins and minerals. Pairs perfectly with milk or yogurt.",
+        "category": "Grocery",
+        "price": 220,
+        "stock": 140,
+        "image": "https://m.media-amazon.com/images/I/81taZhWegxL.jpg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm9R-tXt8btUTDf393n4TJ7IbxWjwkVmIHEI01L97eTgm-1F-Aswnk6T9c6U_ZCvBLQc7qHt8OYa6fP1CSrapY5suLlcMe3IFkm3zKle_yZCLmFnY-X82-WA&s",
+        "tags": [
+            "cereal",
+            "breakfast",
+            "grains",
+            "healthy"
+        ],
+        "distributor": "d5e9c7b1a4f3e820c611d9f4"
+    },
+    {
+        "name": "Pasta (Fusilli) - 500g",
+        "description": "Durum wheat semolina pasta in a classic fusilli shape. Holds sauces well and is great for both hot and cold dishes.",
+        "category": "Grocery",
+        "price": 100,
+        "stock": 200,
+        "image": "https://5.imimg.com/data5/IOS/Default/2025/4/502365291/YQ/HF/FF/13174330/product-jpeg-500x500.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_x_q-w_a_g_f_e_d_y_w_h_e_r_k_l_w&s",
+        "tags": [
+            "pasta",
+            "fusilli",
+            "italian",
+            "noodles"
+        ],
+        "distributor": "d5e9c7b1a4f3e820c611d9f4"
+    },
+    {
+        "name": "Tomato Ketchup - 500g",
+        "description": "Rich and tangy tomato ketchup made from fresh, ripe tomatoes. The perfect condiment for fries, burgers, and sandwiches.",
+        "category": "Grocery",
+        "price": 90,
+        "stock": 280,
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTBWWl_W9LOOyf_AGZzTJCOO2sefdhthFhN8ZLa0dZ6UUt1q1WGoXhk86ra5tzKu6vQo-HbjH296YVcdLJGcdcinvca1aCc6OzF61sTU3qfI8wa3p4mzxZ5Fg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_x2u_w-f_y_g_q_j_c_g_q_e_r_l_w&s",
+        "tags": [
+            "ketchup",
+            "sauce",
+            "condiment",
+            "tomato"
+        ],
+        "distributor": "d5e9c7b1a4f3e820c611d9f4"
+    },
+    {
+        "name": "Packaged Drinking Water - 1L",
+        "description": "Purified and safe packaged drinking water. Convenient for travel, work, or daily hydration.",
+        "category": "Grocery",
+        "price": 20,
+        "stock": 500,
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTrn7zFmWfbBiTxslHVx15JiVpqv_qRVhl6SJ2BkjR7h6bJDOkFvSpFdT3CmMfox5nnxj-D9zqCfIM1uoOepZcqZcmcV1IUO99G_h6C4g32aXMAKK6Cql6dDQ",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_xQ_2gJ_f_Z_7_u_o_h-J_d_w_h_j_l_w_w&s",
+        "tags": [
+            "water",
+            "beverages",
+            "drinking water",
+            "bottled water"
+        ],
+        "distributor": "d5e9c7b1a4f3e820c611d9f4"
+    },
+    {
+        "name": "Liquid Hand Wash - 250ml",
+        "description": "Antibacterial liquid hand wash that cleans hands thoroughly while leaving them soft and with a pleasant scent.",
+        "category": "Grocery",
+        "price": 70,
+        "stock": 300,
+        "image": "https://m.media-amazon.com/images/I/51xlJmANl+L.UF1000,1000_QL80.jpg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk1m3-F_w-sJg_j8n-F_q-K_e6j_o_c_3-xQ&s",
+        "tags": [
+            "hand wash",
+            "hygiene",
+            "personal care",
+            "soap"
+        ],
+        "distributor": "d5e9c7b1a4f3e820c611d9f4"
+    }
+]

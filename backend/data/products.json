@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Basmati Rice 5kg",
+        "description": "Premium long-grain basmati rice, perfect for restaurants and kirana stores.",
+        "category": "Grocery",
+        "price": 250,
+        "stock": 100,
+        "image": "https://www.bbassets.com/media/uploads/p/l/243336_5-india-gate-basmati-rice-classic.jpg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVyF3ZFvcEu4izzipe1Rjia0ma20u4DJQjLw&s",
+        "tags": [
+            "rice",
+            "basmati",
+            "grocery"
+        ],
+         "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Sugar 1kg",
+        "description": "Refined sugar suitable for general use and cooking.",
+        "category": "Grocery",
+        "price": 50,
+        "stock": 200,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNntOEQijaIa8dIgJjTPWAMVr_PunaKbQH-A&s",
+        "thumbnail": "https://images.unsplash.com/photo-1623923332139-93e2636735a7?q=80&w=400&auto=format&fit=crop",
+        "tags": [
+            "sugar",
+            "grocery",
+            "sweetener"
+        ],
+         "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Cooking Oil 1L",
+        "description": "Premium quality vegetable oil for cooking and frying.",
+        "category": "Grocery",
+        "price": 150,
+        "stock": 150,
+        "image": "https://tiimg.tistatic.com/fp/1/007/973/rich-in-protein-fortune-refined-sunflower-cooking-oil-packets-of-1-liter-705.jpg",
+        "thumbnail": "https://images.unsplash.com/photo-1625782134510-3336ce2185c4?q=80&w=400&auto=format&fit=crop",
+        "tags": [
+            "oil",
+            "cooking",
+            "grocery"
+        ],
+         "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Paneer 500g",
+        "description": "Fresh Indian cottage cheese, perfect for restaurants.",
+        "category": "Dairy",
+        "price": 120,
+        "stock": 50,
+        "image": "https://m.media-amazon.com/images/I/81hD14MN91L.jpg",
+        "thumbnail": "https://plus.unsplash.com/premium_photo-1669012003102-13275727e3f2?q=80&w=400&auto=format&fit=crop",
+        "tags": [
+            "paneer",
+            "dairy",
+            "cheese"
+        ],
+         "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Tomato Ketchup 500ml",
+        "description": "Sweet and tangy ketchup, ideal for snacks and fast food.",
+        "category": "Condiments",
+        "price": 80,
+        "stock": 100,
+        "image": "https://tiimg.tistatic.com/fp/1/007/635/kissan-fresh-tomato-ketchup-with-sweet-tangy-taste-pack-size-2-kg-pouch-706.jpg",
+        "thumbnail": "https://images.unsplash.com/photo-1585433379902-23c72b2b8852?q=80&w=400&auto=format&fit=crop",
+        "tags": [
+            "ketchup",
+            "condiment",
+            "snacks"
+        ],
+         "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "All-Purpose Flour 5kg",
+        "description": "High quality wheat flour for baking and cooking.",
+        "category": "Grocery",
+        "price": 200,
+        "stock": 80,
+        "image": "https://www.ubuy.co.in/productimg/?image=aHR0cHM6Ly9pbWFnZXMtY2RuLnVidXkuY28uaW4vNjM1MDVkZDU0NDVhNTMyM2YyNmRiM2Q3LWtpbmctYXJ0aHVyLWZsb3VyLWFsbC1wdXJwb3NlLWZsb3VyLTIuanBn.jpg",
+        "thumbnail": "https://images.unsplash.com/photo-1509440159598-8b1f0ebd630d?q=80&w=400&auto=format&fit=crop",
+        "tags": [
+            "flour",
+            "wheat",
+            "grocery"
+        ],
+         "distributor": "68d760a93aa1e379609cc765"
+    },
+    {
+        "name": "Tea Leaves 250g",
+        "description": "Premium black tea leaves for restaurants and cafes.",
+        "category": "Beverages",
+        "price": 120,
+        "stock": 120,
+        "image": "https://frugivore-bucket.s3.amazonaws.com/media/package/img_one/2021-03-12/Brooke_Bond_Tea_Leaf_-_Red_Label_Tea_250gm.jpg",
+        "thumbnail": "https://images.unsplash.com/photo-1594750953683-37651a5a1f6a?q=80&w=400&auto=format&fit=crop",
+        "tags": [
+            "tea",
+            "beverage",
+            "black tea"
+        ],
+         "distributor": "68d760a93aa1e379609cc765"
+    }
+]

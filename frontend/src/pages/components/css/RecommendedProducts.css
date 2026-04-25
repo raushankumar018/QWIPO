@@ -1,0 +1,38 @@
+/* RecommendedProducts.css */
+
+.recommended-products-container {
+    padding: 1.5rem;
+    background-color: var(--card-bg);
+    border-radius: 0.75rem;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.05);
+    
+}
+
+.recommended-products-container .card-title {
+    font-size: 1rem;
+    color: var(--text-secondary);
+}
+
+/* Ensure the grid gap is consistent */
+.recommended-products-container .row {
+    --bs-gutter-x: 1rem;
+    --bs-gutter-y: 1rem;
+}
+
+/* Adjust ProductCard to fit better in this section */
+.recommended-products-container .product-card {
+    border: none;
+    box-shadow: none;
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    margin-bottom: 50px;
+}
+
+.recommended-products-container .product-card:hover {
+    transform: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+}
+
+/* Style for the loading spinner container */
+.recommended-products-container .text-center {
+    padding: 3rem 0;
+}

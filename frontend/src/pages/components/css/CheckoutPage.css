@@ -1,0 +1,58 @@
+/* Checkout Page Container */
+.checkout-page {
+  max-width: 1200px;
+  margin: auto;
+  padding: 20px;
+}
+
+/* Card Styling for Sections */
+.checkout-page .card {
+  border-radius: 8px;
+  border: 1px solid #e0e0e0;
+}
+
+.checkout-page .card-title {
+  font-weight: 600;
+  color: #333;
+  margin-bottom: 1.5rem;
+}
+
+/* Forms Styling */
+.checkout-page .form-label {
+  font-weight: 500;
+  color: #555;
+}
+
+.checkout-page .form-control {
+  border-radius: 4px;
+  padding: 10px 12px;
+}
+
+/* Price Details List */
+.checkout-page .list-group-item {
+  border: none;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.checkout-page .list-group-item:last-child {
+  border-top: 1px dashed #e0e0e0;
+  margin-top: 10px;
+  padding-top: 10px;
+  font-size: 1.2rem;
+}
+
+/* Buttons */
+.checkout-page .btn-primary {
+  background-color: #fb641b;
+  border-color: #fb641b;
+  font-weight: 600;
+  padding: 12px 24px;
+  border-radius: 4px;
+  transition: background-color 0.2s ease;
+}
+
+.checkout-page .btn-primary:hover {
+  background-color: #e05d15;
+  border-color: #e05d15;
+}

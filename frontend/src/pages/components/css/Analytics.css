@@ -1,0 +1,66 @@
+.page-header h4 {
+  font-weight: 700;
+  color: var(--text-primary);
+  font-size: 1.75rem;
+}
+
+.page-header .btn {
+  font-weight: 600;
+  border-radius: 0.5rem;
+}
+
+.card-header {
+  background-color: transparent;
+  border-bottom: 1px solid var(--border-color);
+  padding: 1rem 1.25rem;
+}
+
+.card-header h6 {
+  font-size: 1rem;
+}
+
+.stat-card .icon-wrap {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.progress {
+  height: 0.75rem;
+  border-radius: 0.5rem;
+  background-color: var(--border-color);
+}
+
+.progress-bar {
+  border-radius: 0.5rem;
+}
+
+.list-group-item {
+  border-color: var(--border-color);
+  background-color: transparent;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.list-group-item:hover {
+  background-color: #f8f9fa;
+}
+
+.list-group-item .badge {
+  background-color: var(--body-bg) !important;
+  color: var(--text-primary) !important;
+}
+
+.analytics-bar {
+  flex-grow: 1;
+  min-width: 15px; 
+}
+
+.analytics-bar > div {
+  border-radius: 0.5rem;
+  min-height: 5px; 
+  width: 100%;
+}

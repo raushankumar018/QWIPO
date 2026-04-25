@@ -1,0 +1,28 @@
+/* Keep sidebar width fixed */
+.fixed-sidebar {
+  width: 280px; /* adjust to your layout */
+  min-width: 280px;
+  transition: width 0.3s ease;
+}
+
+/* Prevent width jump when toggling filters */
+.sidebar-filters {
+  overflow: hidden;
+  transition: max-height 0.3s ease-in-out;
+  max-height: 0;
+}
+
+.sidebar-filters.show {
+  max-height: 600px; /* adjust depending on filter height */
+}
+
+/* Prevent button click (Apply/Reset) from shifting layout */
+.sidebar-filters .btn {
+  white-space: nowrap;
+}
+
+/* Optional: smoother look */
+.dashboard-sidebar {
+  height: 100vh;
+  overflow-y: auto;
+}
